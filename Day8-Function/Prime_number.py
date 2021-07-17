@@ -13,4 +13,4 @@ while True:
     guess = int(input("Enter a number: "))
     prime_checker(number=guess)
 
-    
+

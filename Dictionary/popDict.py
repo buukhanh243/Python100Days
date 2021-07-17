@@ -1,4 +1,6 @@
 my_dict = {'name': 'Khanh ong buu', 'sex': 'Male', 'age': '20'}
+my_dict.update({'age':'27'})
+print(my_dict)
 
 my_dict['age'] = 25
 print(my_dict)
